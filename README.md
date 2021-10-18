@@ -12,4 +12,7 @@ _This data set provides the water quality classifications of New York State's la
 [LINK 1](https://hatarilabs.com/ih-en/delineate-water-bodies-lakes-from-landsat-8-using-machine-learning-with-python-and-qgis-tutorial)
 <br/>
 [LINK 2](https://www.hindawi.com/journals/abb/2020/6659314/#abstract)
+<br />
+[LINK 3](https://www.kaggle.com/iamleonie/intro-to-time-series-forecasting)
+
 
