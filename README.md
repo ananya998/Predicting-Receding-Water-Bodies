@@ -1,4 +1,4 @@
-# 18CSE399J-Environmental-Hydrology-for-Data-Science
+# Prediction of Receding Water Bodies
 # Problem statement
 *There are a lot of water bodies and reservoirs in the world which are depreciating at a very fast pace and certain steps need to be taken to ensure these levels are made stable.*
 
