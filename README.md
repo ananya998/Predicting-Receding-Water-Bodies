@@ -7,6 +7,9 @@
 # Dataset Used
 _This data set provides the water quality classifications of New York State's lakes, rivers, streams and ponds, collectively referred to as waterbodies. All water bodies in the state are provided a water quality classification based on existing, or expected best usage, of each waterbody or waterbody segment. Under New York State's Environmental Conservation Law (ECL)_
 [**Sample Dataset**](https://www.kaggle.com/c/acea-water-prediction/data)
+<br/>
+
+ZOHO EDA Presentation: [**EDA**](https://show.zohopublic.in/publish/WkFOOjYwMDExODI3NDQ4OjE2MzcyMzUzMzgwNTg)
 
 # References
 [LINK 1](https://hatarilabs.com/ih-en/delineate-water-bodies-lakes-from-landsat-8-using-machine-learning-with-python-and-qgis-tutorial)
